@@ -13,6 +13,12 @@ class _GmapsPageState extends State<GmapsPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        leading: IconButton(
+            onPressed: () {
+              Navigator.pushReplacementNamed(context, 'home');
+            },
+            icon: Icon(Icons.arrow_back_ios_sharp)),
+        backgroundColor: Colors.black,
         title: Text('Lozalización'),
       ),
       body: GoogleMap(
