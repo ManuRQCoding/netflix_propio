@@ -6,6 +6,11 @@ Es una app la cual la única funcionalidad que tiene es de navegación, ya que s
 Aún no es responsive.
 
 
+**Si deseas ver su funcionamiento en yotube:**
+📹: https://youtu.be/tz7JPGna4HI
+
+
+**Si prefieres ver capturas de la app:**
 
 ### Página de login
 
@@ -13,14 +18,23 @@ Aún no es responsive.
 
 ### Página elección de perfil
 
+<img src="screenshots/Screenshot_1644522047.png" width="250">
 
-<img src="https://user-images.githubusercontent.com/80096502/153489540-8a8e4128-8971-4d10-b74b-47151c8181e3.png" width="250">
+### Página de inicio
+
+<img src="screenshots/Screenshot_1644522067.png" width="250">
+
+### Página de búsqueda
+
+<img src="screenshots/Screenshot_1644522081.png" width="250">
+
+### Página de próximas
+
+<img src="screenshots/Screenshot_16445220102.png" width="250">
+
+### Página de ajustes
+
+<img src="screenshots/Screenshot_1644522115.png" width="250">
 
 
-
-
-
-
-**Si deseas ver su funcionamiento en yotube:**
-📹: https://youtu.be/tz7JPGna4HI
 
