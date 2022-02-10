@@ -1,3 +1,6 @@
+#NO MOSTRAR XML
+*.xml
+
 # Miscellaneous
 *.class
 *.log
