@@ -11,5 +11,5 @@ Aún no es responsive.
 
 
 **Si deseas ver su funcionamiento en yotube:**
-📹: https://youtu.be/tz7JPGna4HI
+<div>📹: https://youtu.be/tz7JPGna4HI</div>
 
