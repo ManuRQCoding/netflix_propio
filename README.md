@@ -7,7 +7,7 @@ Aún no es responsive.
 
 ### Página de login
 
-<div><img style="display:block;" src="/screenshots/Screenshot_1644522008.png" align="left" width="250" ></div>
+<div><img style="display:block;" src="/screenshots/Screenshot_1644522008.png" width="250" ></div>
 
 
 **Si deseas ver su funcionamiento en yotube:**
