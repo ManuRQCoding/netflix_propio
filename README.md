@@ -37,5 +37,14 @@ Aún no es responsive.
 
 <img src="screenshots/Screenshot_1644522115.png" width="250">
 
+### Función de botón de compartir
+
+<img src="screenshots/Captura de pantalla 2022-02-10 a las 22.46.47" width="250">
+
+### Función API Google Maps
+
+<img src="screenshots/Captura de pantalla 2022-02-10 a las 22.47.18" width="250">
+
+
 
 
