@@ -30,7 +30,7 @@ Aún no es responsive.
 
 ### Página de próximas
 
-<img src="screenshots/Screenshot_16445220102.png" width="250">
+<img src="screenshots/Screenshot_1644522102.png" width="250">
 
 ### Página de ajustes
 
