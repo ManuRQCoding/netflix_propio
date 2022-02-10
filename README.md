@@ -17,12 +17,14 @@ Aún no es responsive.
 <img src="screenshots/Screenshot_1644522008.png" width="250" >
 
 ### Página elección de perfil
-
+<div>
 <img src="screenshots/Screenshot_1644522047.png" width="250">
+  <img src="screenshots/Screenshot_1644522067.png" width="250">
+  </div>
 
 ### Página de inicio
 
-<img src="screenshots/Screenshot_1644522067.png" width="250">
+
 
 ### Página de búsqueda
 
