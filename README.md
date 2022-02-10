@@ -12,7 +12,9 @@ Aún no es responsive.
 ### Página elección de perfil
 
 
-<img src="/screenshots/Screenshot_1644522008.png" width="250" >" width="250" >
+<img src="https://user-images.githubusercontent.com/80096502/153489540-8a8e4128-8971-4d10-b74b-47151c8181e3.png" width="250">
+
+
 
 
 
