@@ -9,6 +9,7 @@ Aún no es responsive.
 
 <div><img src="/screenshots/Screenshot_1644522008.png" align="left" width="250" ></div>
 
+
 **Si deseas ver su funcionamiento en yotube:**
 📹: https://youtu.be/tz7JPGna4HI
 
