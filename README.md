@@ -6,8 +6,8 @@ Es una app la cual la única funcionalidad que tiene es de navegación, ya que s
 Aún no es responsive.
 
 ### Página de login
-![LoginPage](/screenshots/Screenshot_1644522008.png {width=80px})
-<img src="/screenshots/Screenshot_1644522008.png" align="left" width="250" >
+
+<img src="/screenshots/Screenshot_1644522008.png" align="left" width="250" ><br>
 
 **Si deseas ver su funcionamiento en yotube:**
 📹: https://youtu.be/tz7JPGna4HI
